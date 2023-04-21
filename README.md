@@ -1,6 +1,6 @@
 # AI 维权律师
 
-一个基于 ChatGPT、帮助更多的人维护自身权益的 AI 律师1
+一个基于 ChatGPT、帮助更多的人维护自身权益的 AI 律师
 
 [AI 维权律师 \[点击跳转\]](https://ai-lawyer.yuanx.me)
 完全免费，由我提供 OpenAI API key（已内置）
